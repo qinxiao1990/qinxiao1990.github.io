@@ -2,19 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emacs on Hugo ʕ•ᴥ•ʔ Bear Blog</title>
-    <link>https://qinxiao1990.github.io/blog/emacs/</link>
+    <link>http://localhost:1313/blog/emacs/</link>
     <description>Recent content in Emacs on Hugo ʕ•ᴥ•ʔ Bear Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-UK</language>
     <copyright>Copyright © 2023, Xiao Qin.</copyright>
-    <lastBuildDate>Sun, 19 Nov 2023 22:32:00 +0000</lastBuildDate>
-    <atom:link href="https://qinxiao1990.github.io/blog/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 May 2025 19:31:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world</title>
+      <link>http://localhost:1313/hello-world/</link>
+      <pubDate>Thu, 08 May 2025 19:30:00 +0100</pubDate>
+      <guid>http://localhost:1313/hello-world/</guid>
+      <description>&lt;p&gt;hello world!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>我的第一篇博客</title>
-      <link>https://qinxiao1990.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <link>http://localhost:1313/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Sun, 19 Nov 2023 22:32:00 +0000</pubDate>
-      <guid>https://qinxiao1990.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
-      <description>This is my first blog!</description>
+      <guid>http://localhost:1313/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;p&gt;This is my first blog!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
